@@ -12,7 +12,7 @@ A React-based, straightforward SPA Portfolio template for designers and develope
 5. Make required changes in ```src/app.js``` to suit your needs.
 
 Deploy-  https://collins418.github.io/React-portfolio/
-Repo-
+Repo-https://github.com/Collins418/React-portfolio
 
 
 
