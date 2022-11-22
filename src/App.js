@@ -67,12 +67,16 @@ function App() {
         <h3/>
         <button/>
       <div/>
-    <section/>
-    <section id="ContactMe">
+
+   
+    <section id="ContactMe"/>
       <h1 Name="headings">Contact Me</h1>
       <p>111-111-111</p>
       <p>LaTavya-Collins@website</p>
-    </section>
+    </div>
     
   );
-export default App:
+
+  
+  }export default App;
+
